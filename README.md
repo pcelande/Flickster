@@ -23,7 +23,8 @@ https://github.com/pcelande/Flickster/blob/master/flickster.gif
 ## Notes
 
 Describe any challenges encountered while building the app.
-- 
+* [] stripping to a minimum the file "item_movie.xlm" so that the app could fit well in portrait/landscape mode ;
+* [] modifying my package in different manner than the video guide
 
 ## Open-source libraries used
 

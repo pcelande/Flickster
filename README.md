@@ -1,4 +1,4 @@
-# Week # 1 Project 1 - *Flickster*
+# Week # 1 Project - *Flickster*
 
 **Nflickster** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 

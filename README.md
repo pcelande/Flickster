@@ -26,8 +26,8 @@ https://github.com/pcelande/Flickster/blob/master/flickster.gif
 ## Notes
 
 Describe any challenges encountered while building the app.
-* [] stripping the code of the file "item_movie.xlm" in order to have an app compatible on landscape mode ;
-* [] learning to change font ;
+* [] stripping the code of the file "item_movie.xlm" in order to have an app compatible with landscape mode ;
+* [] learning to use the properties : typeface and typeStyle ;
 
 ## Open-source libraries used
 

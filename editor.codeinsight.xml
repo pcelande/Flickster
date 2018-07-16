@@ -2,6 +2,6 @@
   <component name="CodeInsightSettings">
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="" />
+    <EXCLUDED_PACKAGE NAME="android.R" />
   </component>
 </application>
